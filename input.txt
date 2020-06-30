@@ -1,0 +1,15 @@
+%rules E 3 T 3;
+E->E*E|(int);
+T->start|start|((start));
+A->C;
+
+
+
+
+
+
+
+
+
+
+
